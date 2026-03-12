@@ -58,6 +58,9 @@ manual diagram
 b.  KCL:
 manual diagram
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/246f3e3a-9c6c-4a26-907a-5dac7590ea93" />
+
+
 
  
 
