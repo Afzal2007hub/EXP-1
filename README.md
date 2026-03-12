@@ -72,12 +72,15 @@ Calculation:
 
 a.   KVL:
  <img width="1599" height="1475" alt="image" src="https://github.com/user-attachments/assets/3f9850db-7b6c-4337-bdb6-b2a3eb724714" />
- <img width="1494" height="1600" alt="image" src="https://github.com/user-attachments/assets/7b6e0653-007c-4924-b1c3-c5657186a6c1" />
+ <img width="1600" height="563" alt="image" src="https://github.com/user-attachments/assets/691c0c30-da2c-4bbd-a2c7-13ef5a6c90f7" />
+
+ 
 
 
 
 
 b.  KCL:
+<img width="1494" height="1600" alt="image" src="https://github.com/user-attachments/assets/7b6e0653-007c-4924-b1c3-c5657186a6c1" />
 <img width="1600" height="456" alt="image" src="https://github.com/user-attachments/assets/6b21c910-f6e0-4410-bcd7-61eef4c3988a" />
 
 
@@ -87,7 +90,8 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
-<img width="1478" height="534" alt="image" src="https://github.com/user-attachments/assets/1de12f3e-1a38-4b80-bb7c-fde0c220a147" />
+<img width="1600" height="456" alt="image" src="https://github.com/user-attachments/assets/6b21c910-f6e0-4410-bcd7-61eef4c3988a" />
+
 
  
 
